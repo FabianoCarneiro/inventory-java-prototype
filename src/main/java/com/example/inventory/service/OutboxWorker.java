@@ -40,7 +40,7 @@ public class OutboxWorker {
     }
   }
 
-  private void processInventoryChanged(String payloadJson) throws Exception {
+  void processInventoryChanged(String payloadJson) throws Exception {
     Map<?,?> payload = mapper.readValue(payloadJson, Map.class);
     String key = payload.get("sku") + "::" + payload.get("location_id");
     if (!Files.exists(cacheDir)) Files.createDirectories(cacheDir);
