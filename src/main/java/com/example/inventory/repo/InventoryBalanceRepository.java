@@ -6,6 +6,12 @@ import org.springframework.data.jpa.repository.*;
 import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
 
+/**
+ * Repositório JPA para a entidade {InventoryBalance}.
+ * Responsável pelo acesso e manipulação dos saldos de estoque no banco de dados.
+ *
+ * @author Fabiano Carneiro
+ */
 @Repository
 public interface InventoryBalanceRepository extends JpaRepository<InventoryBalance, InventoryBalanceId> {
 

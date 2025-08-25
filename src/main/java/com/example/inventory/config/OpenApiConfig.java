@@ -5,6 +5,12 @@ import io.swagger.v3.oas.models.info.Info;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
+/**
+ * Classe de configuração do Swagger/OpenAPI.
+ * Define o título, versão e descrição da documentação automática da API de inventário.
+ *
+ * @author Fabiano Carneiro
+ */
 @Configuration
 public class OpenApiConfig {
     @Bean

@@ -15,7 +15,13 @@ import org.springframework.web.server.ResponseStatusException;
 import java.time.OffsetDateTime;
 import java.util.HashMap;
 import java.util.Map;
-
+/**
+ * Serviço de negócio responsável pelas operações do sistema de inventário.
+ * Implementa a lógica para consulta de saldo, ajuste de estoque, criação, confirmação e cancelamento de reservas.
+ * Garante transações seguras, idempotência e publica eventos de alteração via Outbox.
+ *
+ * @author Fabiano Carneiro
+ */
 @Service
 public class InventoryService {
 

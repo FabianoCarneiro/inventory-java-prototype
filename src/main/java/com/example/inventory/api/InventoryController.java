@@ -7,6 +7,12 @@ import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import java.util.Map;
 
+/**
+ * Controlador REST responsável pelos endpoints da API de inventário.
+ * Gerencia as requisições para consulta, ajuste, reserva, confirmação e cancelamento de estoque.
+ * As operações são delegadas ao {src/main/java/com/example/inventory/service/InventoryService.java}.
+ * @author Fabiano Carneiro
+ */
 @RestController
 public class InventoryController {
 

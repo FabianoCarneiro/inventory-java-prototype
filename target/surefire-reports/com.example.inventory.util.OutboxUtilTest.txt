@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.inventory.util.OutboxUtilTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.287 s -- in com.example.inventory.util.OutboxUtilTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.232 s -- in com.example.inventory.util.OutboxUtilTest
