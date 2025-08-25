@@ -1,0 +1,23 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+/.idea/
+/.vscode/
+/*.iml
+
+# Banco de dados H2
+*.mv.db
+*.trace.db
+
+# Cache e arquivos temporários
+/cache/
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Outros
+*.swp

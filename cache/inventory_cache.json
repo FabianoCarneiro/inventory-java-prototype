@@ -1,0 +1,91 @@
+
+{
+  "sku" : "SKU!",
+  "cached_at" : "2025-08-24T20:20:11.998006-03:00",
+  "location_id" : "est1"
+}
+{
+  "sku" : "SKU!",
+  "location_id" : "est1",
+  "cached_at" : "2025-08-24T20:28:56.345278-03:00"
+}
+{
+  "sku" : "SKU!",
+  "location_id" : "est1",
+  "cached_at" : "2025-08-24T20:30:40.875388-03:00"
+}
+{
+  "sku" : "sku1",
+  "location_id" : "est1",
+  "cached_at" : "2025-08-24T20:55:57.850728-03:00"
+}
+{
+  "sku" : "sku1",
+  "location_id" : "est1",
+  "cached_at" : "2025-08-24T20:56:05.896757-03:00"
+}
+{
+  "sku" : "sku1",
+  "location_id" : "est1",
+  "cached_at" : "2025-08-24T21:11:23.768547-03:00"
+}
+{
+  "sku" : "sku1",
+  "location_id" : "est1",
+  "cached_at" : "2025-08-24T21:12:38.138441-03:00"
+}
+{
+  "sku" : "sku1",
+  "location_id" : "est1",
+  "cached_at" : "2025-08-24T21:21:10.117952-03:00"
+}
+{
+  "sku" : "sku1",
+  "location_id" : "est1",
+  "cached_at" : "2025-08-24T21:23:41.743854-03:00"
+}
+{
+  "sku" : "sku1",
+  "location_id" : "est1",
+  "cached_at" : "2025-08-24T21:24:13.879289-03:00"
+}
+{
+  "sku" : "sku1",
+  "location_id" : "est1",
+  "cached_at" : "2025-08-24T21:26:50.504600-03:00"
+}
+{
+  "cached_at" : "2025-08-24T21:30:28.224512-03:00",
+  "location_id" : "est1",
+  "sku" : "sk1"
+}
+{
+  "cached_at" : "2025-08-24T21:31:13.487688-03:00",
+  "location_id" : "est1",
+  "sku" : "sk1"
+}
+{
+  "sku" : "sk1",
+  "location_id" : "est1",
+  "cached_at" : "2025-08-24T21:33:52.471421-03:00"
+}
+{
+  "sku" : "sk1",
+  "location_id" : "est1",
+  "cached_at" : "2025-08-24T21:35:52.236501-03:00"
+}
+{
+  "sku" : "sku1",
+  "location_id" : "est1",
+  "cached_at" : "2025-08-24T21:36:28.450218-03:00"
+}
+{
+  "sku" : "sku1",
+  "location_id" : "est1",
+  "cached_at" : "2025-08-24T21:37:18.733381-03:00"
+}
+{
+  "sku" : "sku1",
+  "location_id" : "est1",
+  "cached_at" : "2025-08-24T21:38:41.187202-03:00"
+}
